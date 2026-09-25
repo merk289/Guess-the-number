@@ -1,0 +1,9 @@
+{
+  "name": "zmq-guess-number",
+  "version": "1.0.0",
+  "description": "Игра 'Угадай число' на ZeroMQ",
+  "main": "game-server.js",
+  "dependencies": {
+    "zeromq": "^6.0.0"
+  }
+}
